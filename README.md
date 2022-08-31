@@ -1,2 +1,2 @@
-# MACHINW-LEARNING-WITH-COURSERA
+# MACHINE-LEARNING-WITH-COURSERA
 This repository contains projects implemented through coursera learned concepts
